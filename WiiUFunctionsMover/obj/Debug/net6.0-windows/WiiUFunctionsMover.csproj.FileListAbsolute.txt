@@ -1,0 +1,17 @@
+C:\Users\toron\source\repos\WiiUFunctionsMover\WiiUFunctionsMover\bin\Debug\net6.0-windows\WiiUFunctionsMover.exe
+C:\Users\toron\source\repos\WiiUFunctionsMover\WiiUFunctionsMover\bin\Debug\net6.0-windows\WiiUFunctionsMover.deps.json
+C:\Users\toron\source\repos\WiiUFunctionsMover\WiiUFunctionsMover\bin\Debug\net6.0-windows\WiiUFunctionsMover.runtimeconfig.json
+C:\Users\toron\source\repos\WiiUFunctionsMover\WiiUFunctionsMover\bin\Debug\net6.0-windows\WiiUFunctionsMover.dll
+C:\Users\toron\source\repos\WiiUFunctionsMover\WiiUFunctionsMover\bin\Debug\net6.0-windows\WiiUFunctionsMover.pdb
+C:\Users\toron\source\repos\WiiUFunctionsMover\WiiUFunctionsMover\obj\Debug\net6.0-windows\WiiUFunctionsMover.csproj.AssemblyReference.cache
+C:\Users\toron\source\repos\WiiUFunctionsMover\WiiUFunctionsMover\obj\Debug\net6.0-windows\WiiUFunctionsMover.WiiUFunctionMover.resources
+C:\Users\toron\source\repos\WiiUFunctionsMover\WiiUFunctionsMover\obj\Debug\net6.0-windows\WiiUFunctionsMover.csproj.GenerateResource.cache
+C:\Users\toron\source\repos\WiiUFunctionsMover\WiiUFunctionsMover\obj\Debug\net6.0-windows\WiiUFunctionsMover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toron\source\repos\WiiUFunctionsMover\WiiUFunctionsMover\obj\Debug\net6.0-windows\WiiUFunctionsMover.AssemblyInfoInputs.cache
+C:\Users\toron\source\repos\WiiUFunctionsMover\WiiUFunctionsMover\obj\Debug\net6.0-windows\WiiUFunctionsMover.AssemblyInfo.cs
+C:\Users\toron\source\repos\WiiUFunctionsMover\WiiUFunctionsMover\obj\Debug\net6.0-windows\WiiUFunctionsMover.csproj.CoreCompileInputs.cache
+C:\Users\toron\source\repos\WiiUFunctionsMover\WiiUFunctionsMover\obj\Debug\net6.0-windows\WiiUFunctionsMover.dll
+C:\Users\toron\source\repos\WiiUFunctionsMover\WiiUFunctionsMover\obj\Debug\net6.0-windows\refint\WiiUFunctionsMover.dll
+C:\Users\toron\source\repos\WiiUFunctionsMover\WiiUFunctionsMover\obj\Debug\net6.0-windows\WiiUFunctionsMover.pdb
+C:\Users\toron\source\repos\WiiUFunctionsMover\WiiUFunctionsMover\obj\Debug\net6.0-windows\WiiUFunctionsMover.genruntimeconfig.cache
+C:\Users\toron\source\repos\WiiUFunctionsMover\WiiUFunctionsMover\obj\Debug\net6.0-windows\ref\WiiUFunctionsMover.dll
